@@ -1,0 +1,32 @@
+----LAS MEJORES PRÁCTICAS PARA CREAR UNA PÁGINA WEB----
+
+1.Crea la estructura de ficheros, img etc.
+
+2.empieza codificando el HOME con ! para crear la estructura HTML basica.
+
+3.escribe el titulo de la página (home)
+
+4.importa font awesome con un comentario arriba, asi: <!-- font awesome cdn link --> luego lo linkeas buscando el enlace en https://cdnjs.com/
+
+5.ahora creamos el css personalizado por nosotros, de la misma manera, ponemos un comentario arriba, asi: <!-- custom css file link --> y lo linkeamos.
+
+6. linkeamos todo el javascript.
+
+----------CREAMOS EL HEADER----------
+1.Creamos 2 comentarios, el primero para comenzar el header, y el segundo para terminar el header.
+
+2. dentro del header creamos el LOGO.
+
+3. luego creamos el navbar o MENU.
+
+4. para poner la seccion de iconos, creamos un DIV padre con la clase icons, y luego ponemos cada icono en su DIV.
+
+5. importamos poppins de googlefonts, agregamos :
+    thin 100, 
+    light 300, 
+    regular 400,
+    medium 500,
+    semi-bold 600
+
+6. lo importamos en nuestro archivo de SASS, luego en el mismo fichero, creamos un formateo de código, con *{}, aqui ponemos todas las configuraciones generales a nuestro gusto.
+
