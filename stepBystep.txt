@@ -30,3 +30,11 @@
 
 6. lo importamos en nuestro archivo de SASS, luego en el mismo fichero, creamos un formateo de código, con *{}, aqui ponemos todas las configuraciones generales a nuestro gusto.
 
+7. Trabajamos con nuestro archovo scss (sass), declaramos las variables, y las vamos usando en nuestro .header
+
+8. saque una imagen de marihuana, que es el tema que usare para esta pagina web, sera una página de venta de diferentes razas y tipos de marihuana, y elegi una paleta de colores naturales y reales de verdes y rosas de la planta.
+
+9. cuando creamos el buscador, le ponemos un top negativo para que desaparesca, y luego lo haremos aparecer con javascript.
+
+10. efecto toggle, pasa de visible a invisible y viseversa.
+
